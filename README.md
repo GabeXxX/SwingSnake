@@ -4,7 +4,8 @@ I have decided that I will not touch the code in the future because it represent
 
 Here there are some screenshots:
 
-<img src="./images/img1.png" alt="drawing" width="400"/><img src="./images/img2.png" alt="drawing" width="400"/>
-<img src="./images/img3.png" alt="drawing" width="400"/><img src="./images/img4.png" alt="drawing" width="400"/>
+<img src="./images/img1.png" alt="drawing" width="400"/> <img src="./images/img2.png" alt="drawing" width="400"/>
+
+<img src="./images/img3.png" alt="drawing" width="400"/> <img src="./images/img4.png" alt="drawing" width="400"/>
 
 
